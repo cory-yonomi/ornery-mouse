@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ornery-mouse
-- 👀 I’m interested in web development & design, UI/UX, and app building
-- 🌱 I’m currently learning React and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... are you sure you want to?
+**Welcome to my Repositories!
+
+Hey there, I'm Cory. I'm a full stack developer currently completing the Software Engineering Immersive Cohort with General Assembly. Formerly a large format graphics professional, I've been slowly shifting into the development world to expand my skills and make a career change.
+
+I'm an avid fly fisher and gamer.
 
 <!---
 ornery-mouse/ornery-mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
