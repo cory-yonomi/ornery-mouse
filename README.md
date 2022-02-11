@@ -1,6 +1,8 @@
 Hey there, I'm Cory. I'm a software developer that recently completed the Software Engineering Immersive Cohort with General Assembly. Formerly a large format graphics professional, I decided to make the leap into development to make better use of my time and skills.
 
-Outside of coding, I'm an avid fly fisher and gamer. I get excited about apps for the outdoors and conservation, the MERNG stack in general, and tacos.
+Here you'll find my projects from GA as well as personal projects and refactors. I get excited about apps + APIs for the outdoors and conservation, the MERNG stack in general, and tacos.
+
+Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around Austin, TX or building villages in Valheim.
 
 <!---
 ornery-mouse/ornery-mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
