@@ -4,6 +4,16 @@ Here you'll find my projects from GA as well as personal projects and refactors.
 
 Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around Austin, TX or building villages in Valheim.
 
+#### General Assembly Projects
+
+**Invaders From Space**: HTML Canvas/CSS/JS - https://ornery-mouse.github.io/Omicron/
+
+**Pescador - PEN**: PostgreSQL, Express, EJS, Node - https://pescador.herokuapp.com
+
+**Grubbr**: Mongoose, Express, React, Node - https://grubbr-app.herokuapp.com
+
+**Print Shop**: MERN + GraphQL - https://print-shop-manager.herokuapp.com
+
 <!---
 ornery-mouse/ornery-mouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
