@@ -1,4 +1,4 @@
-Hey there, I'm Cory. I'm a software developer that recently completed the Software Engineering Immersive Cohort with General Assembly. Formerly a large format graphics professional, I decided to make the leap into development to make better use of my time and skills.
+Hello! I'm Cory. I'm a software developer that recently completed the Software Engineering Immersive Cohort with General Assembly. Formerly a large format graphics professional, I decided to make the leap into development to make better use of my time and skills.
 
 Here you'll find my projects from GA as well as personal projects and refactors. I get excited about apps + APIs for the outdoors and conservation, the MERNG stack in general, and tacos.
 
