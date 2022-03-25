@@ -7,8 +7,10 @@ Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around
 ### Current Projects
 
 **FIPS County Code API**: MongoDB, Mongoose, Express, Node, Liquid - https://github.com/ornery-mouse/fips-code-api
+An API for retrieving the Federal Information Processing Standards code for United States counties. Built to support a portion of Pescador React's functionality.
 
 **Pescador - React Refactor**: MongoDB, Express, Node, React, GraphQL - https://github.com/ornery-mouse/pescador-react-client
+A conditions feed and fishing trip journal for anglers. Provides up to the minute water and weather data and allows anglers to track trips and catches.
 
 ### General Assembly Projects
 
