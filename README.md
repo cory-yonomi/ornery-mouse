@@ -10,7 +10,7 @@ Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around
 
 **Pescador - React Refactor**: MongoDB, Express, Node, React, GraphQL - https://github.com/ornery-mouse/pescador-react-client
 
-#### General Assembly Projects
+### General Assembly Projects
 
 **Invaders From Space**: HTML Canvas/CSS/JS - https://ornery-mouse.github.io/Omicron/
 
