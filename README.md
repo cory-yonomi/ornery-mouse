@@ -4,6 +4,12 @@ Here you'll find my projects from GA as well as personal projects and refactors.
 
 Outside of coding, I'm an avid fly fisher and gamer. Find me chasing carp around Austin, TX or building villages in Valheim.
 
+### Current Projects
+
+**FIPS County Code API**: MongoDB, Mongoose, Express, Node, Liquid - https://github.com/ornery-mouse/fips-code-api
+
+**Pescador - React Refactor**: MongoDB, Express, Node, React, GraphQL - https://github.com/ornery-mouse/pescador-react-client
+
 #### General Assembly Projects
 
 **Invaders From Space**: HTML Canvas/CSS/JS - https://ornery-mouse.github.io/Omicron/
