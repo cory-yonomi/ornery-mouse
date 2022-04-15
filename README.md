@@ -18,7 +18,7 @@ A conditions feed and fishing trip journal for anglers. Provides up to the minut
 
 **Pescador - PEN**: PostgreSQL, Express, EJS, Node - https://pescador.herokuapp.com
 
-**Grubbr**: Mongoose, Express, React, Node - https://grubbr-app.herokuapp.com
+**Grubbr**: Mongoose, Express, React, Node - https://grubbrapp.herokuapp.com
 
 **Print Shop**: MERN + GraphQL - https://print-shop-manager.herokuapp.com
 
